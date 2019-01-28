@@ -4,7 +4,7 @@
 /* ------ Zaglavlje / početak ------ */
 .zaglavlje {
 	height: 400px;
-	background: url('slike/header.png') no-repeat;
+	background: url('slike/Header.png') no-repeat;
 	background-size: cover;
 }
 .zaglavlje a {
